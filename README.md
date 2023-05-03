@@ -1,4 +1,4 @@
-![spiral-cr.png](spiral-cr.png)
+![spiral-cr.png](spiral-cr.png spiral-cr.png | width=50)
 # NevuAI
 Software development.
 
